@@ -9,4 +9,4 @@ meta: asdasdfasd
 ---
 # fasdfasdfadsfasdfadsfa
 
-<p style="text-align: center"><img src="/media/zach-reiner-jekyll-island-2.jpg"></p>
+<p style="text-align: center"><img src="../media/zach-reiner-jekyll-island-2.jpg"></p>
