@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: /media/zach-reiner-jekyll-island-2.jpg
+cover: /media/HK-MBAH-SEMAR.png
 title: "Prediksi Hk Mbah Semar Hari Ini "
 categories: junk
 author:
@@ -9,4 +9,4 @@ meta: asdasdfasd
 ---
 # fasdfasdfadsfasdfadsfa
 
-<p style="text-align: center"><img src="../media/zach-reiner-jekyll-island-2.jpg"></p>
+<p style="text-align: center"><img src="/media/HK-MBAH-SEMAR.png"></p>
